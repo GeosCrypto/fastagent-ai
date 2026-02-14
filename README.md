@@ -2,6 +2,12 @@
 
 A comprehensive, fully functional AI agent capable of responding to and completing all types of assignments and questions.
 
+[![Tests](https://img.shields.io/badge/tests-26%20passing-brightgreen)]()
+[![Python](https://img.shields.io/badge/python-3.7%2B-blue)]()
+[![License](https://img.shields.io/badge/license-MIT-blue)]()
+
+**🚀 [Quick Start Guide](QUICKSTART.md)** | [Examples](examples.py) | [Contributing](CONTRIBUTING.md)
+
 ## Features
 
 - **Multi-Domain Support**: Handles mathematics, coding, text analysis, reasoning, and general Q&A
