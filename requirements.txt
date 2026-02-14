@@ -1,0 +1,2 @@
+# FastAgent AI Requirements
+# Core Python libraries (no external dependencies for basic functionality)
